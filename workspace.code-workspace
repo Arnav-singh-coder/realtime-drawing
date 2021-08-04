@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Desktop/Arnav's VS website/realtime_drawing"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "realtime_drawing"
+	}
+}
